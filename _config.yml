@@ -1,0 +1,8 @@
+# _config.yml
+
+title: My GitHub Pages Site
+description: Welcome to my GitHub Pages website powered by Jekyll!(only for study purpose)
+
+# Choose a theme from GitHub Pages supported themes
+theme: jekyll-theme-slate
+
